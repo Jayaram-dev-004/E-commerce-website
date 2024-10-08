@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jayaram-dev-004/E-commerce-website/static/css/main.921f1456.css",
-    "main.js": "/Jayaram-dev-004/E-commerce-website/static/js/main.211447db.js",
-    "static/js/453.3f74345f.chunk.js": "/Jayaram-dev-004/E-commerce-website/static/js/453.3f74345f.chunk.js",
-    "index.html": "/Jayaram-dev-004/E-commerce-website/index.html",
-    "main.921f1456.css.map": "/Jayaram-dev-004/E-commerce-website/static/css/main.921f1456.css.map",
-    "main.211447db.js.map": "/Jayaram-dev-004/E-commerce-website/static/js/main.211447db.js.map",
-    "453.3f74345f.chunk.js.map": "/Jayaram-dev-004/E-commerce-website/static/js/453.3f74345f.chunk.js.map"
+    "main.css": "/E-commerce-website/static/css/main.921f1456.css",
+    "main.js": "/E-commerce-website/static/js/main.5e0f64da.js",
+    "static/js/453.3f74345f.chunk.js": "/E-commerce-website/static/js/453.3f74345f.chunk.js",
+    "index.html": "/E-commerce-website/index.html",
+    "main.921f1456.css.map": "/E-commerce-website/static/css/main.921f1456.css.map",
+    "main.5e0f64da.js.map": "/E-commerce-website/static/js/main.5e0f64da.js.map",
+    "453.3f74345f.chunk.js.map": "/E-commerce-website/static/js/453.3f74345f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.921f1456.css",
-    "static/js/main.211447db.js"
+    "static/js/main.5e0f64da.js"
   ]
 }
